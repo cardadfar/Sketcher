@@ -19,27 +19,6 @@
 /*                                                                 */
 /*******************************************************************/
 
-/*	Skeleton.cpp	
-
-	This is a compiling husk of a project. Fill it in with interesting
-	pixel processing code.
-	
-	Revision History
-
-	Version		Change													Engineer	Date
-	=======		======													========	======
-	1.0			(seemed like a good idea at the time)					bbb			6/1/2002
-
-	1.0			Okay, I'm leaving the version at 1.0,					bbb			2/15/2006
-				for obvious reasons; you're going to 
-				copy these files directly! This is the
-				first XCode version, though.
-
-	1.0			Let's simplify this barebones sample					zal			11/11/2010
-
-	1.0			Added new entry point									zal			9/18/2017
-
-*/
 
 #include "Skeleton.h"
 #include <assert.h>
