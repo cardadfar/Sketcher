@@ -11,3 +11,8 @@ Download/clone the repository. Locate the After Effects file location locally & 
 * [GLEW](http://glew.sourceforge.net/)
 * [GLUT](https://www.opengl.org/resources/libraries/glut/glut_downloads.php)
 * [GLFW](http://www.glfw.org/download.html)
+
+
+### Modifying the Code
+
+The sketcher algorithm is kept in the Skeleton.cpp & Skeleton_Helper.cpp files. To complile the plug-in, run the Skeleton.sln file in After Effects > Win
