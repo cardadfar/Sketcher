@@ -4,7 +4,7 @@ Sketcher is an After Effects Plug-in that uses OpenGL to render lines & polygons
 
 ## Getting Started
 
-Download/clone the repository. Locate the After Effects File Location on your Computer. Place Sketcher.aex in Plug-ins > Effects. 
+Download/clone the repository. Locate the After Effects file location locally & place Sketcher.aex in Plug-ins > Effects. 
 
 ### Prerequisites
 
