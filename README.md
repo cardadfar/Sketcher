@@ -41,6 +41,7 @@ Sketcher comes with many parameters for customization.
 * Random Seed: random seed.
 * Subject Layer: layer to apply the effect on.
 
+For optimal performance, use an edge detection filter on the footage before applying Sketcher on a seperate adjustment layer
 
 ## Processing - Getting Started
 
