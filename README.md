@@ -12,7 +12,7 @@ Download/clone the repository. Locate the After Effects file location locally & 
 * [GLUT](https://www.opengl.org/resources/libraries/glut/glut_downloads.php)
 * [GLFW](http://www.glfw.org/download.html)
 
-Download the following source files and place their .dll files in the System32 folder. In the Sketcher.sln file, set the Header Locations in Properties > C/C++ > General to the directory of these header files.
+Download the following source files and place their .dll files in the System32 folder. In the Sketcher.sln file, set the Header Locations in Properties -> C/C++ -> General to the directory of these header files.
 
 * [AE SDK](https://www.adobe.io/apis/creativecloud/aftereffects.html)
 
@@ -21,7 +21,25 @@ You will also need the AE SDK to run the files. Place the After Effects Plug-in 
 
 ### Modifying the Code
 
-The sketcher algorithm is kept in the Sketcher.cpp & Sketcher_Helper.cpp files. To complile the plug-in, build the Sketcher.sln file in After Effects Plug-in > Win.
+The sketcher algorithm is kept in the Sketcher.cpp & Sketcher_Helper.cpp files. To complile the plug-in, build the Sketcher.sln file in After Effects Plug-in -> Win.
+
+### Using the Plug-in
+
+Sketcher comes with many parameters for customization.
+
+* Segments: number of points to draw.
+* Length: number of points per consecutive line.
+* Range: distance consecutive points of the same line can be from each other.
+* Straightness: length in degrees each angle of a line can make.
+* Drawing Mode: renders points, lines, or fills.
+* Line Color: color of the output.
+* Color Detector: input color.
+* Detector Range: range of acceptable input color
+* Spread: [debug-feature] how far apart lines would be.
+* Grid Selection: [debug-feature] selecting points in grid manner rather than at random.
+* Gap Selection: allowing lines to cross over gaps.
+* Random Seed: random seed.
+* Subject Layer: layer to apply the effect on.
 
 
 ## Processing - Getting Started
