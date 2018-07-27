@@ -4,7 +4,7 @@ Sketcher is an After Effects Plug-in that uses OpenGL to render lines & polygons
 
 
 <img src='../master/Images/cars.gif' style='width: 50%;'>
-Sketcher effect on [Build Our McQueen](https://www.adobe.io/apis/creativecloud/aftereffects.html) Footage
+Sketcher effect on <a href='https://www.youtube.com/watch?v=GS6Sbc9Y9co'>Build Our McQueen</a> Footage
 
 
 ## After Effects - Getting Started
