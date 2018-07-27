@@ -84,5 +84,5 @@ PathForward p = new PathForward(img, 3000, 25, 1);
 PointForward p = new PointForward(img, 3000, 25, 1);
 ```
 
-![Optional Text](../master/Images/flower_comparison.png)
+<img src='../master/Images/flower_comparisons.png' style='width: 75%;'>
 
