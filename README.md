@@ -2,7 +2,7 @@
 
 Sketcher is an After Effects Plug-in that uses OpenGL to render lines & polygons over a footage's target color input to give it a sketch effect.
 
-![alt text](https://raw.githubusercontent.com/cardadfar/Sketcher/main/Image/cars.gif)
+![alt text](...master/Image/cars.gif)
 
 ## After Effects - Getting Started
 
